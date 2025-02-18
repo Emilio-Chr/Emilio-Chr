@@ -4,7 +4,7 @@
 <p align="center">
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Jose+Emilio;Software+Development+Student;If+you+can+dream+it,+you+can+program+it.&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Jose+Emilio+Cerecero+Tellez;Software+Development+Student;I+try+to+improve...&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
